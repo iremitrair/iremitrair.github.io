@@ -1,0 +1,26 @@
+        <p class="paragraph">I have a master's degree in linguistics from the University of Helsinki. During my studies
+          I
+          concentrated on General Linguistics, Korean and Literature.
+          Later I became interested in coding and studied the basics of Python in university as well as learned R and
+          basic statistics in the process of writing my master's thesis on the typology of constructed languages.</p>
+        <p class="paragraph">During the process I also I noticed the importance of time management and started tracking
+          what I do in a day in a simple text file, to find where I was spending my time
+          and if there were any changes I wished to make.
+          As a result I studied Kotlin and created an Android app for myself, Flyka.
+          (From English "fly" and Finnish <span>aika</span> "time", since time has a tendency to fly.)
+          On this app I log what I do in a day by the minute and through examining this data I am able to learn more
+          about
+          myself and guide myself to make changes to create the life I want to live.</p>
+        <p class="paragraph">In 2026, I joined a six-month program for unemployed youth in Helsinki Nuorten Työpajat,
+          the
+          Digitalents Academy, where I studied the basics of html and css, and studied the Codecademy course
+          "Business Intelligence Data Analyst Career Path", learning the basics of Data Analysis using Excel, SQL,
+          Python
+          and Tableau.
+        </p>
+        <p class="paragraph">As is perhaps evident from the looks of this website, I attempt to learn coding and all
+          else
+          in my life without the use of AI. My next avenue of study is to find out how
+          this new companion works and to find answers on wheater there are ways to use AI ethically, without relying on
+          stolen data and without hurting the environment and the human brain.
+        </p>
